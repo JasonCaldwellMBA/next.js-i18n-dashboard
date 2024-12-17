@@ -1,0 +1,15 @@
+{
+    "common.language-switcher": "{locale, select, en {English} de {Deutsch} es {Español} fr {Français} hi {हिंदी} other {Unknown}}",
+    "common.navigation.discover": "डिस्कवर",
+    "common.navigation.home": "होम",
+    "common.navigation.reports": "रिपोर्ट",
+    "common.user-menu.settings": "सेटिंग्स",
+    "common.user-menu.sign-out": "साइन आउट करें",
+    "common.user-menu.your-profile": "आपकी प्रोफ़ाइल",
+    "page.discover.deploy-on-vercel.subtitle": "शून्य कॉन्फ़िगरेशन के साथ अपने Next.js प्रोजेक्ट के लिए बिजली की गति से तैनाती और बेहतर प्रदर्शन का अनुभव करें।",
+    "page.discover.deploy-on-vercel.title": "Versel पर Next.js तैनात करें",
+    "page.home.activities": "गतिविधियाँ",
+    "page.home.activity": "{action, select, COMMENT {टिप्पणी किया गया कार्य} ACTIVATE {सक्रिय कार्य} STOP {काम बंद हो गया} other {अज्ञात गतिविधि}}",
+    "page.home.team": "टीम",
+    "page.reports.no-data": "कोई रिपोर्ट नहीं मिली है।"
+}

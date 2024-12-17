@@ -134,6 +134,9 @@ export default function NavbarContent({ user, locale, messages }: Props) {
                   <MenuItem href={`/fr/${pathname.split("/").slice(2).join("/")}`} active={locale === "fr"}>
                     <FormattedMessage id="common.language-switcher" values={{ locale: "fr" }} />
                   </MenuItem>
+                  <MenuItem href={`/hi/${pathname.split("/").slice(2).join("/")}`} active={locale === "hi"}>
+                    <FormattedMessage id="common.language-switcher" values={{ locale: "hi" }} />
+                  </MenuItem>
                 </Menu>
               )}
             </div>
