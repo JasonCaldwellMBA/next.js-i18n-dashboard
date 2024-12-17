@@ -1,0 +1,15 @@
+{
+    "common.language-switcher": "{locale, select, en {English} de {Deutsch} es {Spanish} fr {Français} zh {普通话 中文} other {Unknown}}",
+    "common.navigation.discover": "发现",
+    "common.navigation.home": "主页",
+    "common.navigation.reports": "报告",
+    "common.user-menu.settings": "设置",
+    "common.user-menu.sign-out": "退出",
+    "common.user-menu.your-profile": "您的个人资料",
+    "page.discover.deploy-on-vercel.subtitle": "零配置，体验 Next.js 项目的闪电般快速部署和卓越性能。",
+    "page.discover.deploy-on-vercel.title": "在 Vercel 上部署 Next.js",
+    "page.home.activities": "活动",
+    "page.home.activity": "{action, select, COMMENT {评论任务} ACTIVATE {激活作业} STOP {停止工作} other {未知活动}}",
+    "page.home.team": "团队",
+    "page.reports.no-data": "未找到任何报告。"
+    }
