@@ -1,0 +1,15 @@
+{
+    "common.language-switcher": "{locale, select, en {English} de {Deutsch} es {Español} fr {Français} other {Unknown}}",
+    "common.navigation.discover": "Descubrir",
+    "common.navigation.home": "Inicio",
+    "common.navigation.reports": "Informes",
+    "common.user-menu.settings": "Configuración",
+    "common.user-menu.sign-out": "Cerrar sesión",
+    "common.user-menu.your-profile": "Su perfil",
+    "page.discover.deploy-on-vercel.subtitle": "Experimente implementaciones ultrarrápidas y un rendimiento superior para sus proyectos Next.js sin necesidad de configuración.",
+    "page.discover.deploy-on-vercel.title": "Implemente Next.js en Vercel",
+    "page.home.activities": "Actividades",
+    "page.home.activity": "{action, select, COMMENT {Tarea comentada} ACTIVATE {Trabajo activado} STOP {Trabajo detenido} other {Actividad desconocida}}",
+    "page.home.team": "Equipo",
+    "page.reports.no-data": "No se han encontrado informes"
+}
